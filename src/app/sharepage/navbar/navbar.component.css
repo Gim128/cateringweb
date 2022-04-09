@@ -5,5 +5,5 @@
 .navbar-light .navbar-nav .nav-link.active-link {
   color: var(--primary-color);
   text-decoration: underline;
-  /* 28:24 */
+  
 }
